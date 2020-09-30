@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{CC3AEEB4-0F17-B25A-7BB4-E3BC4ADD7CED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Collector.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Collector.cs" Line="50" Column="1" />
+      <File FileName="Assets/Scripts/PickupSpawner.cs" />
+      <File FileName="Assets/Scripts/SortedList.cs" />
+      <File FileName="Assets/Scripts/Target.cs" />
+      <File FileName="Assets/Scripts/Events/TimerFinishedEvent.cs" />
+      <File FileName="Assets/Scripts/Events/PickupSpawnedEvent.cs" />
+      <File FileName="Assets/Scripts/Events/EventManager.cs" />
+      <File FileName="Assets/Scripts/Timer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TedTheRoboCollector" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Events" expanded="True" />
+                <Node name="Collector.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8fb8f8c9-9884-42bd-8006-af63a760835f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jesuscarcamoposada/Downloads/vwPpfEBuTfqD6XxAbj36Wg_54f605d64bfb4a5d93c71a6020ddcb2b_1-Mac-Programming-Assignment-1-Materials/1 Mac Unity Programming Assignment 1 Materials/TedTheRoboCollector/Assets/Scripts/Collector.cs" relfile="Assets/Scripts/Collector.cs" line="50" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
